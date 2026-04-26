@@ -1,0 +1,13 @@
+# Test Preparation for Qwen and Kimi K2.6 Coding Tests
+
+This directory contains preparation for coding tests using Qwen series and Kimi K2.6 models via Kilo Code/KiloClaw.
+
+Plan:
+1. Create a simple coding task (e.g., Fibonacci function) in a file task.py.
+2. Spawn two subagent sessions:
+   - One using Qwen model (e.g., qwen-coder-plus)
+   - One using Kimi K2.6 model
+3. Each agent will read the task, implement the solution, and write result to output files.
+4. Collect outputs for comparison.
+
+Instructions for agents will be provided via session spawning.
