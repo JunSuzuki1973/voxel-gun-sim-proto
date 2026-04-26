@@ -1,4 +1,0 @@
-html,body,#root{height:100%;margin:0}
-.app-root{height:100vh;display:flex;flex-direction:column}
-.ui-overlay{position:fixed;left:12px;top:12px;padding:6px 10px;background:rgba(0,0,0,0.5);color:#fff;border-radius:6px;font-family:system-ui}
-canvas{display:block}
